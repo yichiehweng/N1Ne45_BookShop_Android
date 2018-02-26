@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">N1Ne45BookShop2</string>
+    <string name="option1">Children</string>
+    <string name="option2">Finance</string>
+    <string name="option3">Non-fiction</string>
+    <string name="option4">Technical</string>
+</resources>
